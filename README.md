@@ -40,11 +40,4 @@ I'm passionate about creating impactful and elegant solutions through **code** a
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss innovative ideas. Let's build something amazing together! 🚀
